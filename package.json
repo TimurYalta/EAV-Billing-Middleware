@@ -1,0 +1,11 @@
+{
+  "name": "eav_billing_mw",
+  "version": "1.0.0",
+  "description": "The purpose of this module is to be the middleware between the EAV charging simulation and IOTA network. This module is responsible for est. of FC and it maintenance with further send of answer back to simulation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TimurYalta",
+  "license": "ISC"
+}
