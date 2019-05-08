@@ -6,4 +6,5 @@ Usage:
 1) Clone the repository
 2) Install dependencies  - npm install
 3) Start Charging station server - npm run cs
-4) Start Electriv Vehicle server
+4) Start Electriv Vehicle server - npm run ev
+
